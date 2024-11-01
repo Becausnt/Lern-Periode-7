@@ -21,8 +21,8 @@ Das Thema cloud scheint eine Ansammlung von fancy Wörtern zu sein. Bis jetzt st
   - [x] Kapselung
   - [x] Vererbung
   - [x] Polymorphismus
-  - [ ] Klassendiagramme
-  - [ ] Sequenzdiagramme
+  - [x] Klassendiagramme
+  - [x] Sequenzdiagramme
 
 ### Gelerntes
 - UML schreiben
