@@ -12,10 +12,10 @@ Das Thema cloud scheint eine Ansammlung von fancy Wörtern zu sein. Bis jetzt st
 ## 01/11/2024
 ### Arbeitspakete
 - [ ] M320 - Erstelle Übungen zum M320 mit Themen zu:
-  - [ ] Klassen
-  - [ ] Aggregationen und Assotiationen
-  - [ ] Methodenüberladung
-  - [ ] Typing
+  - [x] Klassen
+  - [x] Aggregationen und Assotiationen
+  - [x] Methodenüberladung
+  - [x] Typing
   - [ ] Unit-Testing
   - [ ] Backing-fields und Properties
   - [ ] Kapselung
