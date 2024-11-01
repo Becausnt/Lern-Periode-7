@@ -19,8 +19,10 @@ Das Thema cloud scheint eine Ansammlung von fancy Wörtern zu sein. Bis jetzt st
   - [x] Unit-Testing
   - [x] Backing-fields und Properties
   - [x] Kapselung
-  - [ ] Vererbung
-  - [ ] Polymorphismus
+  - [x] Vererbung
+  - [x] Polymorphismus
+  - [ ] Klassendiagramme
+  - [ ] Sequenzdiagramme
 
 ### Gelerntes
 - UML schreiben
