@@ -34,3 +34,5 @@ Es ist schwierig gute Aufgaben zu schreiben, aber ich denke was ich bis jetzt ha
 
 ### Reflektion
 Ich bin heute gut vorangekommen und habe Vieles repetiert. Ich habe auch meine eigenen Aufgaben gelöst und so Überprüft ob noch irgendwelche Fehler vorhanden sind. Alles in Allem habe ich heute gut gearbeitet, bin aber noch nicht ganz fertig.
+17:51 Update:
+Ich habe nun daran weitergearbeitet und in der Zwischenzeit Aufgaben für Polymorphismus und Vererbung erstellt. Jetzt gerade arbeite ich daran, eine Aufgabe zu Sequenz und Klassendiagrammen zu erstellen.
