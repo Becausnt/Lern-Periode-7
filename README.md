@@ -27,12 +27,21 @@ Das Thema cloud scheint eine Ansammlung von fancy Wörtern zu sein. Bis jetzt st
 ### Gelerntes
 - UML schreiben
 - Unterschied Aggregation Assotiation
-- Unit-Testing Project reference fixen.
+- Unit-Testing Project reference fixen (Zeigt die richtige namespaces nicht als option an, aber es funktioniert trotzdem)
+- Prozessdiagramm erstellen
 
 ### Schwierigkeiten
-Es ist schwierig gute Aufgaben zu schreiben, aber ich denke was ich bis jetzt habe ist nicht schlecht. Beim Unit-Testing hatte ich ein wenig Mühe damit, das Projekt richtig zu verlinken. 
+Es ist schwierig gute Aufgaben zu schreiben, aber ich denke was ich bis jetzt habe ist nicht schlecht. Beim Unit-Testing hatte ich ein wenig Mühe damit, das Projekt richtig zu verlinken da der Namespace in dem der Code geschrieben wurde nicht im Autocomplete angezeigt wurde und sogar zu einem anderen korrigiert wurde. 
 
 ### Reflektion
-Ich bin heute gut vorangekommen und habe Vieles repetiert. Ich habe auch meine eigenen Aufgaben gelöst und so Überprüft ob noch irgendwelche Fehler vorhanden sind. Alles in Allem habe ich heute gut gearbeitet, bin aber noch nicht ganz fertig.
-17:51 Update:
-Ich habe nun daran weitergearbeitet und in der Zwischenzeit Aufgaben für Polymorphismus und Vererbung erstellt. Jetzt gerade arbeite ich daran, eine Aufgabe zu Sequenz und Klassendiagrammen zu erstellen.
+Ich bin heute gut vorangekommen und habe Vieles repetiert. Ich habe auch meine eigenen Aufgaben gelöst und so Überprüft ob noch irgendwelche Fehler vorhanden sind. Alles in Allem habe ich heute gut gearbeitet, bin aber noch nicht ganz fertig. 17:51 Update: Ich habe nun daran weitergearbeitet und in der Zwischenzeit Aufgaben für Polymorphismus und Vererbung erstellt. Jetzt gerade arbeite ich daran, eine Aufgabe zu Sequenz und Klassendiagrammen zu erstellen. Es ist nun fertig.
+
+
+
+### Benötigte Hilfestellungen:
+
+![image](https://github.com/user-attachments/assets/ef2dabdc-f870-4063-97d7-a7de6d7893ed)
+
+Dies ist das Diagramm zu diesem Code: https://pastefy.app/xAOcSRb4
+
+Wie kann ich die Rekursion in diesem Diagramm richtig darstellen?
