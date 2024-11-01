@@ -16,7 +16,8 @@ Das Thema cloud scheint eine Ansammlung von fancy Wörtern zu sein. Bis jetzt st
   - [x] Aggregationen und Assotiationen
   - [x] Methodenüberladung
   - [x] Typing
-  - [ ] Unit-Testing
-  - [ ] Backing-fields und Properties
+  - [x] Unit-Testing
+  - [x] Backing-fields und Properties
   - [ ] Kapselung
   - [ ] Vererbung
+  - [ ] Polymorphismus
