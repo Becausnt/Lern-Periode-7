@@ -45,3 +45,28 @@ Ich bin heute gut vorangekommen und habe Vieles repetiert. Ich habe auch meine e
 Dies ist das Diagramm zu diesem Code: https://pastefy.app/xAOcSRb4
 
 Wie kann ich die Rekursion in diesem Diagramm richtig darstellen?
+
+
+## 08/11/2024
+### Arbeitspakete
+Ich hatte heute keine rechte vorstellung, was ich machen sollte, da ich momentan weder etwas aufholen muss noch irgendwo etwas schlecht verstanden habe. Deshalb habe ich den Morgen einfach damit verbracht folgende Aufträge im Modul 450 zu lösen:
+- [x] LA_450_6990_Testkonzept
+- [x] LA_450_6920_Testarten
+- [x] LA_450_6940_Interfaces
+
+### Gelerntes
+- Verschiedene Testformen
+- Testmodelle
+- Repetition Unittesting
+- Testarten
+- Testkonzept schreiben
+- Interfaces Umsetzen und Benutzen
+
+### Schwierigkeiten
+Es war ein wenig schwierig ein Testkonzept zu schreiben/eine Vorlage dafür zu erstellen, aber ich habe nach einigem Recherchieren eines erstellt. Die Verschiedenen Testmodelle zu verstehen war auch eine Challenge, da in der PowerPoint praktisch nichts dazu steht. Aber mithilfe von ChatGPT und nicht sehr spannenden YouTube-Videos habe ich es gut genug Verstanden um den Auftrag zu erledigen.
+
+### Reflektion
+Ich bin heute gut vorangekommen, auch wenn sehr viel der Arbeit Recherche war. Dagegen war der Programmierauftrag richtig erfrischend. Zu den Aufträgen gibt es nicht sehr viel zu sagen, sie waren gut lösbar aber Teilweise ein wenig Trocken. Ich denke ich habe alles was ich heute gelernt habe gut verstanden.
+
+### Benötigte Hilfesestellungen
+Evtl. ein kurzes Recap der verschiedenen Testmodelle und für was diese gut sind.
