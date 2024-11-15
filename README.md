@@ -76,5 +76,7 @@ Evtl. ein kurzes Recap der verschiedenen Testmodelle und für was diese gut sind
 ### Arbeitspakete
 - [ ] LA_294_8432_CRUD_BBB_JSONServer repetieren
 - [ ] LA_346_1708_CloudNetzwerkkonzept
+- [ ] UI: Website um nach Pokemon zu suchen
+- [ ] JS-Backend Kommunikation zu Pokeapi einbauen
 
 
