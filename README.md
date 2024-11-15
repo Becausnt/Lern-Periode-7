@@ -11,7 +11,7 @@ Das Thema cloud scheint eine Ansammlung von fancy Wörtern zu sein. Bis jetzt st
 
 ## 01/11/2024
 ### Arbeitspakete
-- [ ] M320 - Erstelle Übungen zum M320 mit Fragen/Aufgaben zu:
+- [x] M320 - Erstelle Übungen zum M320 mit Fragen/Aufgaben zu:
   - [x] Klassen
   - [x] Aggregationen und Assotiationen
   - [x] Methodenüberladung
@@ -70,3 +70,11 @@ Ich bin heute gut vorangekommen, auch wenn sehr viel der Arbeit Recherche war. D
 
 ### Benötigte Hilfesestellungen
 Evtl. ein kurzes Recap der verschiedenen Testmodelle und für was diese gut sind.
+
+
+## 15/11/2024
+### Arbeitspakete
+- [ ] LA_294_8432_CRUD_BBB_JSONServer repetieren
+- [ ] LA_346_1708_CloudNetzwerkkonzept
+
+
