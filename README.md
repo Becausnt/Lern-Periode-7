@@ -74,9 +74,10 @@ Evtl. ein kurzes Recap der verschiedenen Testmodelle und für was diese gut sind
 
 ## 15/11/2024
 ### Arbeitspakete
-- [ ] LA_294_8432_CRUD_BBB_JSONServer repetieren
-- [ ] LA_346_1708_CloudNetzwerkkonzept
-- [ ] UI: Website um nach Pokemon zu suchen
-- [ ] JS-Backend Kommunikation zu Pokeapi einbauen
+- [x] LA_294_8432_CRUD_BBB_JSONServer repetieren
+- [x] LA_346_1708_CloudNetzwerkkonzept repetieren
+- [x] UI: Website um nach Pokemon zu suchen
+- [x] JS-Backend Kommunikation zu Pokeapi einbauen
 
-
+### Reflektion
+Ich habe heute mit Cezar den CRUD-Aftrag nochmals repetiert und eine kleine Website die die PokéAPI verwendet erstellt. Diese funktioniert, könnte aber natürlich noch ausgebaut werden. Gearbeitet habe ich heute so gut, dass sogar das Christkind (nach eigener Aussage das Christkind und in form des Klassenlehrers im nächsten Zimmer) vorbeikam und uns Schokolade schenkte.
