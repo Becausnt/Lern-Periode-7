@@ -81,3 +81,12 @@ Evtl. ein kurzes Recap der verschiedenen Testmodelle und für was diese gut sind
 
 ### Reflektion
 Ich habe heute mit Cezar den CRUD-Aftrag nochmals repetiert und eine kleine Website die die PokéAPI verwendet erstellt. Diese funktioniert, könnte aber natürlich noch ausgebaut werden. Gearbeitet habe ich heute so gut, dass sogar das Christkind (nach eigener Aussage das Christkind und in form des Klassenlehrers im nächsten Zimmer) vorbeikam und uns Schokolade schenkte.
+
+# 22/11/2024
+### Arbeitspakete
+- [x] Grundlagen Unity Modding
+- [x] Grapple Flugmodus
+- [x] Grapple Schwerkraftänderung
+
+### Reflektion
+Ok, Schwerkraftänderung ist noch nicht ganz ausgereift aber Grundlagen funktionieren. Plan war nächste Woche daran zu Arbeiten aber dann war ich krank was das Ganze ein wenig schwieriger machte.
